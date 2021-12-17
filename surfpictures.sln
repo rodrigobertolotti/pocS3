@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "surfpictures", "surfpictures\surfpictures.csproj", "{FCAF3D58-49D9-49D7-ADD2-9725300E3F7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCAF3D58-49D9-49D7-ADD2-9725300E3F7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCAF3D58-49D9-49D7-ADD2-9725300E3F7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCAF3D58-49D9-49D7-ADD2-9725300E3F7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCAF3D58-49D9-49D7-ADD2-9725300E3F7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC5C8B07-F27E-4D86-B499-FDE05DDE5397}
+	EndGlobalSection
+EndGlobal

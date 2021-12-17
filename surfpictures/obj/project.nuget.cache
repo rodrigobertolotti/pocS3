@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "PcWo7W7B15G/pukw+vXBxGre4R2C2Tq6hr/DeeQeGA/T4wCzDn/Q7Iezv0geMFkPDYzqDFfWKBx8WPyqI3HQIA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rodri\\source\\repos\\surfpictures\\surfpictures\\surfpictures.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rodri\\.nuget\\packages\\awssdk.core\\3.7.0.45\\awssdk.core.3.7.0.45.nupkg.sha512",
+    "C:\\Users\\rodri\\.nuget\\packages\\awssdk.extensions.netcore.setup\\3.7.0.1\\awssdk.extensions.netcore.setup.3.7.0.1.nupkg.sha512",
+    "C:\\Users\\rodri\\.nuget\\packages\\awssdk.s3\\3.7.1.15\\awssdk.s3.3.7.1.15.nupkg.sha512",
+    "C:\\Users\\rodri\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\2.0.0\\microsoft.extensions.configuration.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\rodri\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\rodri\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.0.0\\microsoft.extensions.logging.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\rodri\\.nuget\\packages\\microsoft.extensions.primitives\\2.0.0\\microsoft.extensions.primitives.2.0.0.nupkg.sha512",
+    "C:\\Users\\rodri\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.4.0\\system.runtime.compilerservices.unsafe.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
